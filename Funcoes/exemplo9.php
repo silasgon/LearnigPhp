@@ -33,7 +33,7 @@ $hierarquia = array
                     (
                         'nome_cargo'=>'Gerente de Contas a Pagar',
                         'subordinados'=> array
-                        (
+                            (
                             //Inicio: Supervisor de pagamentos
                             array
                             (
@@ -41,7 +41,6 @@ $hierarquia = array
                             )
                         )
                         //Termino: Sperviso de Pagamentos
-                    )
                 ),
                 //Termino: Gerente de Contas a Pagar
                 //Inicio: Gerente de Compras
@@ -67,7 +66,7 @@ $hierarquia = array
                 )
                 //Termino: Gerente de Compras
             )
-            //Termino: Diretor Financeiro
+                                ),  //Termino: Diretor Financeiro
         )
     )
 );

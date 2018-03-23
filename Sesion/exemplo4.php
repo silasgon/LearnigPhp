@@ -1,6 +1,6 @@
 <?php
 
-session_id()
+session_id();
 
 require_once("config.php");
 
