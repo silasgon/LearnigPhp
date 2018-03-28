@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="POO em php begin">
+    <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,7 +140,7 @@
       <workItem from="1522083075504" duration="3889000" />
       <workItem from="1522180416852" duration="2475000" />
       <workItem from="1522197704084" duration="2267000" />
-      <workItem from="1522200026639" duration="283000" />
+      <workItem from="1522200026639" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -156,11 +156,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522199773022</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="POO em php begin">
+      <created>1522200341289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522200341289</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11865000" />
+    <option name="totallyTimeSpent" value="11903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,9 +247,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="POO em php begin" />
     <MESSAGE value="Encapsulamento no php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulamento no php" />
+    <MESSAGE value="POO em php begin" />
+    <option name="LAST_COMMIT_MESSAGE" value="POO em php begin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
