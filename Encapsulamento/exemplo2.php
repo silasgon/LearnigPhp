@@ -8,6 +8,8 @@ class Pessoa {
 
     public function verDados(){
 
+        echo get_class($this) . "<br>";
+
         echo $this->nome . "<br/>";
         echo $this->idade . "<br/>";
         echo $this->senha . "<br/>";
@@ -16,8 +18,20 @@ class Pessoa {
 
 }
 
+class Programador extends Pessoa{
 
-$objeto = new Pessoa();
+    public function verDados(){
+
+        echo get_class($this) . "<br>";
+
+        echo $this->nome . "<br/>";
+        echo $this->idade . "<br/>";
+        echo $this->senha . "<br/>";
+
+    }
+
+}
+$objeto = new Programador();
 
 //echo $objeto->nome . "<br>";
 
