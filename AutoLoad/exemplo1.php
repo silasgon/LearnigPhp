@@ -10,4 +10,3 @@ function __autoload($nomeClasse){
 $carro  = new DelRey();
 
 $carro->acelerar(80);
-
