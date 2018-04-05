@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe6167ce-765b-4c6d-9dc3-fa1859dd043b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/LearnigPhp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstrata/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoLoad/Abstratas/Automovel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoLoad/DelRey.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoLoad/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoLoad/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constante/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constante/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constante/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/exemplo0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/exemplo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/exemplo5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulamento/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulamento/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../For/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Foreach/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Foreach/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo10.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo11.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo7b.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/exemplo9.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Funcoes/version.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heranca/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Include/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Include/inc/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Json/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Json/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mysqli/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mysqli/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Namespace/class/Cadastro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Namespace/class/Cliente/Cadastro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Namespace/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Namespace/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/exemplo8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polimorfismo/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sesion/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sesion/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sesion/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sesion/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sesion/exemplo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sesion/exemplo5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/exemplo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variaveis/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variaveis/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variaveis/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variaveis/exemplo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variaveis/exemplo5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdo/exemplo1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdo/exemplo2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdo/exemplo3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdo/exemplo4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdo/exemplo5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdo/exemplo6.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FOPEN" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe6167ce-765b-4c6d-9dc3-fa1859dd043b" name="Default" comment="" />
+      <created>1522933091243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522933091243</updated>
+      <workItem from="1522933092922" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3292683" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3292683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
