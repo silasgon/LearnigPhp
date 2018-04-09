@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="Alterções an">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FGETS/exemplo1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FGETS/exemplo2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FGETS/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FGETS/usuarios.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/exemplo2.5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rename/exemplo1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNLINK/exemplo1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNLINK/exemplo2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download/exemplo1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/exemplo1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOPEN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FOPEN/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,10 +47,20 @@
     <favorites_list name="LearningPhp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="exemplo1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rename/exemplo1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DAO" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -82,6 +101,14 @@
         <option value="$PROJECT_DIR$/DAO/index.php" />
         <option value="$PROJECT_DIR$/../DIR/exemplo1.php" />
         <option value="$PROJECT_DIR$/../DIR/exemplo2.php" />
+        <option value="$PROJECT_DIR$/UNLINK/exemplo1.php" />
+        <option value="$PROJECT_DIR$/UNLINK/exemplo2.php" />
+        <option value="$PROJECT_DIR$/FGETS/exemplo1.php" />
+        <option value="$PROJECT_DIR$/FGETS/exemplo2.php" />
+        <option value="$PROJECT_DIR$/upload/exemplo1.php" />
+        <option value="$PROJECT_DIR$/download/exemplo1.php" />
+        <option value="$PROJECT_DIR$/POO/exemplo2.5.php" />
+        <option value="$PROJECT_DIR$/Rename/exemplo1.php" />
       </list>
     </option>
   </component>
@@ -126,6 +153,11 @@
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Rename" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -144,16 +176,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\DIR" />
-      <recent name="C:\xampp\htdocs\LearnigPhp\pdo" />
-      <recent name="C:\xampp\htdocs\LearnigPhp\Mysqli" />
-      <recent name="C:\xampp\htdocs\LearnigPhp\AutoLoad" />
-      <recent name="C:\xampp\htdocs\LearnigPhp\LearnigPhp\Encapsulamento" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\LearningPhp\DAO\Class" />
       <recent name="C:\xampp\htdocs\LearnigPhp\AutoLoad\Abstratas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LearningPhp\FGETS" />
+      <recent name="C:\xampp\htdocs\LearningPhp\UNLINK" />
+      <recent name="C:\xampp\htdocs\DIR" />
+      <recent name="C:\xampp\htdocs\LearnigPhp\pdo" />
+      <recent name="C:\xampp\htdocs\LearnigPhp\Mysqli" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -194,6 +226,9 @@
       <workItem from="1522755077258" duration="12766000" />
       <workItem from="1522847323224" duration="10150000" />
       <workItem from="1522930473260" duration="2606000" />
+      <workItem from="1523036589592" duration="1442000" />
+      <workItem from="1523101981050" duration="789000" />
+      <workItem from="1523277871142" duration="10338000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -283,7 +318,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72075000" />
+    <option name="totallyTimeSpent" value="84644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,22 +327,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49457994" visible="true" weight="0.17352185" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3223684" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045386" side_tool="true" weight="0.3026316" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49546143" weight="0.302168" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" sideWeight="0.50542" side_tool="true" visible="true" weight="0.17352185" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.3387534" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4905149" visible="true" weight="0.15488432" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
+      <window_info id="Structure" order="1" sideWeight="0.50948507" side_tool="true" visible="true" weight="0.15488432" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
@@ -379,31 +415,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DAO/Class/Usuario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2635">
-          <caret line="155" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAO/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pdo/exemplo2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pdo/Conexao.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -439,7 +454,6 @@
     <entry file="file://$PROJECT_DIR$/Date/exemplo5.php" />
     <entry file="file://$PROJECT_DIR$/POO/exemplo1.php" />
     <entry file="file://$PROJECT_DIR$/POO/exemplo2.php" />
-    <entry file="file://$PROJECT_DIR$/POO/exemplo3.php" />
     <entry file="file://$PROJECT_DIR$/Encapsulamento/exemplo1.php" />
     <entry file="file://$PROJECT_DIR$/Encapsulamento/exemplo2.php" />
     <entry file="file://$PROJECT_DIR$/Heranca/exemplo1.php" />
@@ -606,17 +620,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DIR/exemplo1.php">
+    <entry file="file://$PROJECT_DIR$/../DIR/exemplo1.php" />
+    <entry file="file://$PROJECT_DIR$/../DIR/exemplo2.php" />
+    <entry file="file://$PROJECT_DIR$/UNLINK/exemplo2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DIR/exemplo2.php">
+    <entry file="file://$PROJECT_DIR$/UNLINK/exemplo1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FGETS/usuarios.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FGETS/exemplo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FGETS/exemplo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/exemplo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/exemplo3.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/exemplo2.5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="826">
+          <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download/exemplo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rename/exemplo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
