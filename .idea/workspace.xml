@@ -47,17 +47,7 @@
     <favorites_list name="LearningPhp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="exemplo1.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Rename/exemplo1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,7 +122,7 @@
       <path value="$PROJECT_DIR$/../../php" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -152,11 +142,6 @@
             <path>
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Rename" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -228,7 +213,7 @@
       <workItem from="1522930473260" duration="2606000" />
       <workItem from="1523036589592" duration="1442000" />
       <workItem from="1523101981050" duration="789000" />
-      <workItem from="1523277871142" duration="10338000" />
+      <workItem from="1523277871142" duration="10696000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -318,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84644000" />
+    <option name="totallyTimeSpent" value="85002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,8 +311,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3223684" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
@@ -335,11 +319,11 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49546143" weight="0.302168" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.3387534" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4905149" visible="true" weight="0.15488432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.3387534" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4897541" visible="true" weight="0.15488432" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
-      <window_info id="Structure" order="1" sideWeight="0.50948507" side_tool="true" visible="true" weight="0.15488432" />
+      <window_info id="Structure" order="1" sideWeight="0.5102459" side_tool="true" visible="true" weight="0.15488432" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -679,8 +663,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rename/exemplo1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
