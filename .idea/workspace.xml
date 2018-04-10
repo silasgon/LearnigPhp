@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="Alterções an">
-      <change afterPath="$PROJECT_DIR$/curl/exemplo1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookies/exemplo1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookies/exemplo2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +39,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="exemplo1.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/curl/exemplo1.php">
+      <file leaf-file-name="exemplo1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookies/exemplo1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="136">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cookies/exemplo2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -100,6 +110,8 @@
         <option value="$PROJECT_DIR$/POO/exemplo2.5.php" />
         <option value="$PROJECT_DIR$/Rename/exemplo1.php" />
         <option value="$PROJECT_DIR$/curl/exemplo1.php" />
+        <option value="$PROJECT_DIR$/cookies/exemplo1.php" />
+        <option value="$PROJECT_DIR$/cookies/exemplo2.php" />
       </list>
     </option>
   </component>
@@ -137,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,13 +160,12 @@
             <path>
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="curl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cookies" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +231,8 @@
       <workItem from="1522930473260" duration="2606000" />
       <workItem from="1523036589592" duration="1442000" />
       <workItem from="1523101981050" duration="789000" />
-      <workItem from="1523277871142" duration="11955000" />
+      <workItem from="1523277871142" duration="13103000" />
+      <workItem from="1523367227625" duration="2032000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -309,7 +322,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86261000" />
+    <option name="totallyTimeSpent" value="89441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,23 +333,23 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4878049" visible="true" weight="0.15681234" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3223684" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045386" side_tool="true" weight="0.3026316" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49546143" weight="0.302168" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.5121951" side_tool="true" visible="true" weight="0.15681234" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.3387534" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4905149" visible="true" weight="0.15488432" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
-      <window_info id="Structure" order="1" sideWeight="0.50948507" side_tool="true" visible="true" weight="0.15488432" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -620,9 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FGETS/usuarios.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/FGETS/exemplo2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -643,9 +653,6 @@
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/POO/exemplo3.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/POO/exemplo2.5.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -670,8 +677,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/curl/exemplo1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="272">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookies/exemplo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookies/exemplo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
         </state>
       </provider>
     </entry>
