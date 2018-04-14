@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="Alterções an">
-      <change afterPath="$PROJECT_DIR$/GD/exemplo1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GD/exemplo2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GD/exemplo3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error/exemplo2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email/cafeidea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email/contents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GD/exemplo4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tpl/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tpl/email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tpl/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tpl/tpl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearnigPhp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnigPhp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error/exemplo1.php" beforeDir="false" afterPath="$PROJECT_DIR$/error/exemplo1.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +24,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
-  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE" />
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Composer/composer.json</pharConfigPath>
+  </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
     <option name="GROUP_DATA_SOURCES" value="true" />
@@ -41,17 +50,14 @@
     <favorites_list name="LearningPhp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exemplo3.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GD/exemplo3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,17 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/POO/exemplo2.php" />
-        <option value="$PROJECT_DIR$/POO/exemplo3.php" />
-        <option value="$PROJECT_DIR$/Encapsulamento/exemplo1.php" />
-        <option value="$PROJECT_DIR$/Encapsulamento/exemplo2.php" />
-        <option value="$PROJECT_DIR$/Heranca/exemplo1.php" />
-        <option value="$PROJECT_DIR$/Interface/exemplo1.php" />
-        <option value="$PROJECT_DIR$/Abstrata/exemplo1.php" />
-        <option value="$PROJECT_DIR$/Polimorfismo/exemplo1.php" />
-        <option value="$PROJECT_DIR$/AutoLoad/exemplo1.php" />
-        <option value="$PROJECT_DIR$/AutoLoad/exemplo2.php" />
-        <option value="$PROJECT_DIR$/Namespace/class/Cadastro.php" />
         <option value="$PROJECT_DIR$/Namespace/class/Cliente/Cadastro.php" />
         <option value="$PROJECT_DIR$/Namespace/index.php" />
         <option value="$PROJECT_DIR$/Namespace/config.php" />
@@ -82,7 +77,6 @@
         <option value="$PROJECT_DIR$/pdo/exemplo5.php" />
         <option value="$PROJECT_DIR$/pdo/exemplo6.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/915051dc-4908-4535-b706-5947afee067c/console.sql" />
-        <option value="$PROJECT_DIR$/../../php/php.ini" />
         <option value="$PROJECT_DIR$/pdo/pdoDev.php" />
         <option value="$PROJECT_DIR$/pdo/index.php" />
         <option value="$PROJECT_DIR$/pdo/exemplo2.php" />
@@ -110,6 +104,18 @@
         <option value="$PROJECT_DIR$/GD/exemplo1.php" />
         <option value="$PROJECT_DIR$/GD/exemplo2.php" />
         <option value="$PROJECT_DIR$/GD/exemplo3.php" />
+        <option value="$PROJECT_DIR$/GD/exemplo4.php" />
+        <option value="$PROJECT_DIR$/boletophp/include/layout_itau.php" />
+        <option value="$PROJECT_DIR$/boletophp/boleto_itau.php" />
+        <option value="$PROJECT_DIR$/../../php/php.ini" />
+        <option value="$PROJECT_DIR$/Composer/composer.json" />
+        <option value="$PROJECT_DIR$/Email/composer.json" />
+        <option value="$PROJECT_DIR$/Email/contests.html" />
+        <option value="$PROJECT_DIR$/Email/index.php" />
+        <option value="$PROJECT_DIR$/Tpl/index.php" />
+        <option value="$PROJECT_DIR$/Tpl/tpl/index.html" />
+        <option value="$PROJECT_DIR$/Tpl/composer.json" />
+        <option value="$PROJECT_DIR$/Tpl/email.php" />
       </list>
     </option>
   </component>
@@ -131,11 +137,13 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/../../php" />
+      <path value="$PROJECT_DIR$/Composer/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Composer/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="189" />
+    <option name="y" value="-23" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -147,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,39 +163,14 @@
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GD" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GD" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GD" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Bevan" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GD" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Playball" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)&#10;MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DIR" />
@@ -197,16 +181,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LearningPhp\DAO\Class" />
+      <recent name="C:\xampp\htdocs\LearnigPhp\AutoLoad\Abstratas" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LearningPhp\Email" />
       <recent name="C:\xampp\htdocs\LearningPhp\GD" />
       <recent name="C:\xampp\htdocs\LearningPhp\FGETS" />
       <recent name="C:\xampp\htdocs\LearningPhp\UNLINK" />
       <recent name="C:\xampp\htdocs\DIR" />
-      <recent name="C:\xampp\htdocs\LearnigPhp\pdo" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\LearningPhp\DAO\Class" />
-      <recent name="C:\xampp\htdocs\LearnigPhp\AutoLoad\Abstratas" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,7 +237,10 @@
       <workItem from="1523367227625" duration="4633000" />
       <workItem from="1523381145867" duration="1365000" />
       <workItem from="1523449230497" duration="9257000" />
-      <workItem from="1523471036376" duration="386000" />
+      <workItem from="1523471036376" duration="1208000" />
+      <workItem from="1523543341791" duration="1294000" />
+      <workItem from="1523623010523" duration="6629000" />
+      <workItem from="1523708306684" duration="5672000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -343,7 +330,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103050000" />
+    <option name="totallyTimeSpent" value="117467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,7 +340,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48238483" visible="true" weight="0.1625964" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47540984" visible="true" weight="0.16838047" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3223684" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045386" side_tool="true" weight="0.3026316" />
@@ -361,15 +348,15 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49546143" weight="0.302168" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" sideWeight="0.5176152" side_tool="true" visible="true" weight="0.1625964" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.3387534" />
+      <window_info id="Structure" order="1" sideWeight="0.52459013" side_tool="true" visible="true" weight="0.16838047" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.3387534" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -443,47 +430,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GD/exemplo3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/POO/exemplo2.php" />
-    <entry file="file://$PROJECT_DIR$/Encapsulamento/exemplo1.php" />
-    <entry file="file://$PROJECT_DIR$/Encapsulamento/exemplo2.php" />
-    <entry file="file://$PROJECT_DIR$/Heranca/exemplo1.php" />
-    <entry file="file://$PROJECT_DIR$/Interface/exemplo1.php" />
-    <entry file="file://$PROJECT_DIR$/Abstrata/exemplo1.php" />
-    <entry file="file://$PROJECT_DIR$/Polimorfismo/exemplo1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoLoad/exemplo1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoLoad/exemplo2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Namespace/class/Cliente/Cadastro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Namespace/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -558,13 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../php/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="892" column="35" lean-forward="true" selection-start-line="892" selection-start-column="35" selection-end-line="892" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -740,8 +679,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GD/exemplo3.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GD/thumb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GD/exemplo4.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletophp/include/layout_itau.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletophp/boleto_itau.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="887" column="1" selection-start-line="887" selection-start-column="1" selection-end-line="887" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composer/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Email/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Email/contents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tpl/tpl/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tpl/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Email/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" column="26" selection-end-line="79" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tpl/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tpl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="22" />
         </state>
       </provider>
     </entry>

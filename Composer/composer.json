@@ -1,0 +1,14 @@
+{
+    "name": "sls/composer",
+    "description": "Aula de php7 sobre composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Silas Gon",
+            "email": "silasidc@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}

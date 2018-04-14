@@ -2,7 +2,9 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="C:\xampp\php" />
+      <path value="$PROJECT_DIR$/../../php" />
+      <path value="$PROJECT_DIR$/Composer/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Composer/vendor/composer" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
