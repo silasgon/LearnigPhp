@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="Alterções an">
-      <change afterPath="$PROJECT_DIR$/website/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boletophp" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/website/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,20 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/website/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="httpd-vhosts.conf" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="153">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -74,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Mysqli/exemplo1.php" />
         <option value="$PROJECT_DIR$/Mysqli/exemplo2.php" />
         <option value="$PROJECT_DIR$/pdo/exemplo1.php" />
         <option value="$PROJECT_DIR$/Funcoes/version.php" />
@@ -122,9 +114,10 @@
         <option value="$PROJECT_DIR$/Tpl/tpl/index.html" />
         <option value="$PROJECT_DIR$/Tpl/composer.json" />
         <option value="$PROJECT_DIR$/Tpl/email.php" />
-        <option value="$PROJECT_DIR$/website/index.php" />
         <option value="C:/Windows/System32/drivers/etc/hosts" />
         <option value="$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf" />
+        <option value="$PROJECT_DIR$/website/composer.json" />
+        <option value="$PROJECT_DIR$/website/index.php" />
       </list>
     </option>
   </component>
@@ -150,7 +143,7 @@
       <path value="$PROJECT_DIR$/Composer/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="189" />
     <option name="y" value="-23" />
     <option name="width" value="1400" />
@@ -171,6 +164,11 @@
             <path>
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="website" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -195,11 +193,11 @@
       <recent name="C:\xampp\htdocs\LearnigPhp\AutoLoad\Abstratas" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LearningPhp\website" />
       <recent name="C:\xampp\htdocs\LearningPhp\Email" />
       <recent name="C:\xampp\htdocs\LearningPhp\GD" />
       <recent name="C:\xampp\htdocs\LearningPhp\FGETS" />
       <recent name="C:\xampp\htdocs\LearningPhp\UNLINK" />
-      <recent name="C:\xampp\htdocs\DIR" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,7 +247,7 @@
       <workItem from="1523471036376" duration="1208000" />
       <workItem from="1523543341791" duration="1294000" />
       <workItem from="1523623010523" duration="6629000" />
-      <workItem from="1523708306684" duration="7298000" />
+      <workItem from="1523708306684" duration="11812000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -339,7 +337,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119093000" />
+    <option name="totallyTimeSpent" value="123607000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,7 +348,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47696477" visible="true" weight="0.16838047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47540984" visible="true" weight="0.16838047" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3223684" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045386" side_tool="true" weight="0.3026316" />
@@ -358,8 +356,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49546143" weight="0.302168" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" sideWeight="0.5230352" side_tool="true" visible="true" weight="0.16838047" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.3387534" />
+      <window_info id="Structure" order="1" sideWeight="0.52459013" side_tool="true" visible="true" weight="0.16838047" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.3387534" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -440,27 +438,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mysqli/exemplo2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mysqli/exemplo1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pdo/exemplo1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Funcoes/version.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -769,17 +746,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/index.php">
+    <entry file="file://$PROJECT_DIR$/../../apache/conf/httpd.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
+        <state relative-caret-position="-9176" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="259">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
