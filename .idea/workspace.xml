@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="Alterções an">
-      <change afterPath="$PROJECT_DIR$/website/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca/exemplo1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boletophp" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/website/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
-  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/Composer/composer.json</pharConfigPath>
   </component>
   <component name="DatabaseView">
@@ -42,12 +40,12 @@
     <favorites_list name="LearningPhp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/index.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="exemplo1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seguranca/exemplo1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -67,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Mysqli/exemplo2.php" />
         <option value="$PROJECT_DIR$/pdo/exemplo1.php" />
         <option value="$PROJECT_DIR$/Funcoes/version.php" />
         <option value="$PROJECT_DIR$/pdo/exemplo3.php" />
@@ -118,6 +115,7 @@
         <option value="$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf" />
         <option value="$PROJECT_DIR$/website/composer.json" />
         <option value="$PROJECT_DIR$/website/index.php" />
+        <option value="$PROJECT_DIR$/seguranca/exemplo1.php" />
       </list>
     </option>
   </component>
@@ -164,6 +162,11 @@
             <path>
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="seguranca" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
@@ -247,7 +250,9 @@
       <workItem from="1523471036376" duration="1208000" />
       <workItem from="1523543341791" duration="1294000" />
       <workItem from="1523623010523" duration="6629000" />
-      <workItem from="1523708306684" duration="11812000" />
+      <workItem from="1523708306684" duration="12125000" />
+      <workItem from="1523885526117" duration="1877000" />
+      <workItem from="1523975738636" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -337,7 +342,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123607000" />
+    <option name="totallyTimeSpent" value="126661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,23 +353,23 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47540984" visible="true" weight="0.16838047" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3223684" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045386" side_tool="true" weight="0.3026316" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49546143" weight="0.302168" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" sideWeight="0.52459013" side_tool="true" visible="true" weight="0.16838047" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.3387534" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.3387534" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47289973" visible="true" weight="0.1722365" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
+      <window_info id="Structure" order="1" sideWeight="0.52710027" side_tool="true" visible="true" weight="0.1722365" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32837838" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -765,13 +770,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/.htaccess">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seguranca/exemplo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
