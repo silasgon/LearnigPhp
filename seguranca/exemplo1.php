@@ -1,8 +1,9 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] === 'POST') {
 
-   $cmd = $_POST["cmd"];
+   $cmd = escapeshellcmd($_POST["cmd"]);
 
+   var_dump($cmd);
     echo "<pre>";
 
     $comando = system("dir C:", $retorno);
