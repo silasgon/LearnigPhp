@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fadbf34e-e23e-4f54-a6e6-5fed1dfdb7ad" name="Default" comment="Alterções an">
-      <change afterPath="$PROJECT_DIR$/seguranca/cadastrar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/exemplo4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xss/exemplo1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boletophp" beforeDir="false" afterPath="$PROJECT_DIR$/boletophp" afterDir="false" />
     </list>
@@ -51,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cadastrar.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cadastrar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seguranca/cadastrar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="68">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xss/exemplo1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -75,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pdo/exemplo5.php" />
         <option value="$PROJECT_DIR$/pdo/exemplo6.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/915051dc-4908-4535-b706-5947afee067c/console.sql" />
         <option value="$PROJECT_DIR$/pdo/pdoDev.php" />
@@ -126,6 +133,7 @@
         <option value="$PROJECT_DIR$/seguranca/exemplo3.php" />
         <option value="$PROJECT_DIR$/seguranca/exemplo4.php" />
         <option value="$PROJECT_DIR$/seguranca/cadastrar.php" />
+        <option value="$PROJECT_DIR$/xss/exemplo1.php" />
       </list>
     </option>
   </component>
@@ -171,11 +179,6 @@
             <path>
               <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="LearningPhp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningPhp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="seguranca" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -259,7 +262,7 @@
       <workItem from="1523885526117" duration="1877000" />
       <workItem from="1523975738636" duration="1546000" />
       <workItem from="1524051130720" duration="4836000" />
-      <workItem from="1524136815700" duration="3970000" />
+      <workItem from="1524136815700" duration="5358000" />
     </task>
     <task id="LOCAL-00001" summary="POO em php begin">
       <created>1522096659635</created>
@@ -349,7 +352,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136149000" />
+    <option name="totallyTimeSpent" value="137537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,16 +363,16 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4701897" visible="true" weight="0.17609255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4692623" visible="true" weight="0.17609255" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3223684" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045386" side_tool="true" weight="0.3026316" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50385606" side_tool="true" weight="0.3387534" />
       <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49546143" weight="0.302168" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" sideWeight="0.5298103" side_tool="true" visible="true" weight="0.17609255" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.3387534" />
+      <window_info id="Structure" order="1" sideWeight="0.5307377" side_tool="true" visible="true" weight="0.17609255" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49614397" visible="true" weight="0.3387534" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -450,13 +453,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pdo/exemplo3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pdo/exemplo2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -786,8 +782,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seguranca/cadastrar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="68">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xss/exemplo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
